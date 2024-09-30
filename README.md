@@ -1,4 +1,4 @@
-# Deploying-Node.js-app-in-Kubernetes
+# Deploying Node.js app in Kubernetes
 
 This is a project in which a Node.js application is deployed on Kubernetes.</br>
 Minikube is used as the local Kubernetes.</br>
